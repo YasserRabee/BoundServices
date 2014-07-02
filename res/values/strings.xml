@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BoundService</string>
+    <string name="action_settings">Settings</string>
+    <string name="results">Click "Get" to view results!</string>
+    <string name="run">Run</string>
+    <string name="bind">Bind</string>
+    <string name="unbind">Unbind</string>
+    <string name="start">Start</string>
+    <string name="kill">Kill</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="stop">Stop</string>
+    <string name="getData">Data</string>
+    <string name="getState">State</string>
+    <string name="getWorkState">wState</string>
+    <string name="unknown_message">Unknown Message</string>
+    <string name="clear">Clear</string>
+
+</resources>
